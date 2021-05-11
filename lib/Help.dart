@@ -134,35 +134,36 @@ class HelpState extends State<Help> {
                 children: [
                   ListTile(
                     leading: Icon(Icons.arrow_drop_down_circle),
-                    title: const Text('Card title 1'),
+                    title: const Text('Dr. Sameer Malhotra'),
                     subtitle: Text(
-                      'Secondary Text',
+                      'Director and Head - Department of Mental Health and Behavioral Sciences \n Mental Health And Behavioural Sciences',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Text(
-                      'Greyhound divisively hello coldly wonderfully marginally far upon excluding.',
+                      'Education\nMBBS, MD ( Phychiatry',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   ButtonBar(
                     alignment: MainAxisAlignment.start,
                     children: [
+
                       FlatButton(
-                        textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 1'),
-                      ),
+                      textColor: const Color(0xFF6200EE),
+
+                      child: const Text('499rs'),
+                    ),
                       FlatButton(
-                        textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 2'),
+                          textColor: const Color(0xFF6200EE),
+                          child: const Text('Consult'),
+                          onPressed: () {
+                            const url = 'https://www.maxhealthcare.in/book-an-appointment/doctor/dr-sameer-malhotra~~d444?reload=true';
+                            launchURL(url);
+                          }
+
                       ),
                     ],
                   ),
@@ -181,35 +182,36 @@ class HelpState extends State<Help> {
                 children: [
                   ListTile(
                     leading: Icon(Icons.arrow_drop_down_circle),
-                    title: const Text('Card title 1'),
+                    title: const Text('Dr. Sameer Malhotra'),
                     subtitle: Text(
-                      'Secondary Text',
+                      'Director and Head - Department of Mental Health and Behavioral Sciences \n Mental Health And Behavioural Sciences',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Text(
-                      'Greyhound divisively hello coldly wonderfully marginally far upon excluding.',
+                      'Education\nMBBS, MD ( Phychiatry',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   ButtonBar(
                     alignment: MainAxisAlignment.start,
                     children: [
+
                       FlatButton(
                         textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 1'),
+
+                        child: const Text('499rs'),
                       ),
                       FlatButton(
-                        textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 2'),
+                          textColor: const Color(0xFF6200EE),
+                          child: const Text('Consult'),
+                          onPressed: () {
+                            const url = 'https://google.com';
+                            launchURL(url);
+                          }
+
                       ),
                     ],
                   ),
@@ -228,35 +230,36 @@ class HelpState extends State<Help> {
                 children: [
                   ListTile(
                     leading: Icon(Icons.arrow_drop_down_circle),
-                    title: const Text('Card title 1'),
+                    title: const Text('Dr. Sameer Malhotra'),
                     subtitle: Text(
-                      'Secondary Text',
+                      'Director and Head - Department of Mental Health and Behavioral Sciences \n Mental Health And Behavioural Sciences',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Text(
-                      'Greyhound divisively hello coldly wonderfully marginally far upon excluding.',
+                      'Education\nMBBS, MD ( Phychiatry',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   ButtonBar(
                     alignment: MainAxisAlignment.start,
                     children: [
+
                       FlatButton(
                         textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 1'),
+
+                        child: const Text('499rs'),
                       ),
                       FlatButton(
-                        textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 2'),
+                          textColor: const Color(0xFF6200EE),
+                          child: const Text('Consult'),
+                          onPressed: () {
+                            const url = 'https://google.com';
+                            launchURL(url);
+                          }
+
                       ),
                     ],
                   ),
@@ -275,35 +278,36 @@ class HelpState extends State<Help> {
                 children: [
                   ListTile(
                     leading: Icon(Icons.arrow_drop_down_circle),
-                    title: const Text('Card title 1'),
+                    title: const Text('Dr. Sameer Malhotra'),
                     subtitle: Text(
-                      'Secondary Text',
+                      'Director and Head - Department of Mental Health and Behavioral Sciences \n Mental Health And Behavioural Sciences',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Text(
-                      'Greyhound divisively hello coldly wonderfully marginally far upon excluding.',
+                      'Education\nMBBS, MD ( Phychiatry',
                       style: TextStyle(color: Colors.black.withOpacity(0.6)),
                     ),
                   ),
                   ButtonBar(
                     alignment: MainAxisAlignment.start,
                     children: [
+
                       FlatButton(
                         textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 1'),
+
+                        child: const Text('499rs'),
                       ),
                       FlatButton(
-                        textColor: const Color(0xFF6200EE),
-                        onPressed: () {
-                          // Perform some action
-                        },
-                        child: const Text('ACTION 2'),
+                          textColor: const Color(0xFF6200EE),
+                          child: const Text('Consult'),
+                          onPressed: () {
+                            const url = 'https://google.com';
+                            launchURL(url);
+                          }
+
                       ),
                     ],
                   ),

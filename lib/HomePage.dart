@@ -122,55 +122,55 @@ class HomeState extends State<Home> {
             SizedBox(
               height: 30,
             ),
-            Container(
-              color: Colors.deepPurple,
-              margin: const EdgeInsets.only(left: 25.0, right: 25.0),
-              child: Center(
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    FlatButton(
-                      color: Colors.deepPurple,
-                      padding: EdgeInsets.only(left: 26, right: 26),
-                      child: Column(
-                        children: <Widget>[
-                          SizedBox(
-                            height: 64,
-                          ),
-                          Text(
-                              "MOTIVATIONS",
-                            style: GoogleFonts.openSans(
-                                textStyle: TextStyle(
-                                    color: Colors.white,
-                                    fontSize: 18,
-                                    fontWeight: FontWeight.w600)),
-                          ),
-                          SizedBox(
-                            height: 28,
-                          ),
-
-                          Text(
-                            "Chat with this BOT to help \ngain more confidence and motivation",
-                            style: GoogleFonts.openSans(
-                                textStyle: TextStyle(
-                                    color: Color(0x95F1E7EE),
-                                    fontSize: 15,
-                                    fontWeight: FontWeight.w600)),
-                          ),
-                          SizedBox(
-                            height: 64,
-                          ),
-                        ],
-                      ),
-
-                    ),
-                  ],
-                ),
-              ),
-            ),
-            SizedBox(
-              height: 30,
-            ),
+            // Container(
+            //   color: Colors.deepPurple,
+            //   margin: const EdgeInsets.only(left: 25.0, right: 25.0),
+            //   child: Center(
+            //     child: Column(
+            //       mainAxisAlignment: MainAxisAlignment.center,
+            //       children: [
+            //         FlatButton(
+            //           color: Colors.deepPurple,
+            //           padding: EdgeInsets.only(left: 26, right: 26),
+            //           child: Column(
+            //             children: <Widget>[
+            //               SizedBox(
+            //                 height: 64,
+            //               ),
+            //               Text(
+            //                   "MOTIVATIONS",
+            //                 style: GoogleFonts.openSans(
+            //                     textStyle: TextStyle(
+            //                         color: Colors.white,
+            //                         fontSize: 18,
+            //                         fontWeight: FontWeight.w600)),
+            //               ),
+            //               SizedBox(
+            //                 height: 28,
+            //               ),
+            //
+            //               Text(
+            //                 "Chat with this BOT to help \ngain more confidence and motivation",
+            //                 style: GoogleFonts.openSans(
+            //                     textStyle: TextStyle(
+            //                         color: Color(0x95F1E7EE),
+            //                         fontSize: 15,
+            //                         fontWeight: FontWeight.w600)),
+            //               ),
+            //               SizedBox(
+            //                 height: 64,
+            //               ),
+            //             ],
+            //           ),
+            //
+            //         ),
+            //       ],
+            //     ),
+            //   ),
+            // ),
+            // SizedBox(
+            //   height: 30,
+            // ),
             Container(
               color: Colors.deepPurple,
               margin: const EdgeInsets.only(left: 25.0, right: 25.0),

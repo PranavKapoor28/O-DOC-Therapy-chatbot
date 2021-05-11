@@ -20,7 +20,8 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       backgroundColor: Color(0xff21254A),
-      body: Column(
+      body: SingleChildScrollView(
+      child:Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Container(
@@ -122,6 +123,7 @@ class _LoginPageState extends State<LoginPage> {
           )
         ],
       ),
+      )
     );
   }
 }
