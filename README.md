@@ -1,16 +1,12 @@
-# o_doc
+# O_doc
 
 A therapy chatbot for treating depression
 
-## Getting Started
+O-DOC is an attempt using a chatbot to cure depression among  the people by gradually understanding the root cause. It is  developed from scratch with the intention of helping people in  regulating their moods and eliminating distorted and negative  thinking.
 
-This project is a starting point for a Flutter application.
+The app is made using Flutter and dialogflow.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image1](https://user-images.githubusercontent.com/50455396/115253368-f2048880-a149-11eb-9dff-453a403d28a7.jpeg)
+![image3](https://user-images.githubusercontent.com/50455396/115253377-f3ce4c00-a149-11eb-82b2-45511911a59c.jpeg)
+![image4](https://user-images.githubusercontent.com/50455396/115253382-f4ff7900-a149-11eb-88f6-26051156097f.jpeg)
+![image2](https://user-images.githubusercontent.com/50455396/115253388-f6c93c80-a149-11eb-92d5-3597a8270537.jpeg)
